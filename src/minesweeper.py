@@ -6,8 +6,6 @@ class Board:
         self.dim_size = dim_size
         self.num_bombs = num_bombs
 
-        # add a test change here
-        print('1')
         # create the board
         # helper function
         self.board = self.make_new_board() # plant the bomb
